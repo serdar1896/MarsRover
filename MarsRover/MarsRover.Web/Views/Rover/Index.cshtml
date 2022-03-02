@@ -1,0 +1,125 @@
+﻿@{
+    ViewData["Title"] = "Rover Page";
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<div class="text-center">
+    <h1 class="display-4"  style="background-color: lightcoral; ">Welcome Mars Rover Test</h1>
+</div>
+
+<br />
+
+<div class="container ">
+
+    <div class="row">
+        <div class="col-md-12">
+            <h4 style=" font-size: 33px; text-align: center;" class="display-4">Create plateau area for Mars Rover</h4>
+
+            <form>
+                <!-- 1) PLATO Yüzeyi -->
+                <div class="row border border-2 border-warning">
+                        <div class="col-md-6">
+                            <label for="usr">X Coordinate:</label>
+                            <input id="PlatoX" type="text" class="form-control" placeholder="X">
+                        </div>
+                        <div class="col-md-6">
+                            <label for="pwd">Y Coordinate:</label>
+                            <input id="PlatoY" type="text" class="form-control" placeholder="Y">
+                        </div>
+                    </div>
+
+                    <!-- END 1) PLATO Yüzeyi -->
+                    <!-- 2) Araç Pozisyonları VE Yönlendirme -->
+
+                    <br />
+                    <div class="row" style=" text-align: center;">
+                        <h5 style=" font-size: 33px; " class="display-4"> Enter the rover starting position and direction</h5>
+
+                        <div class="col-md-6 border border-2 border-warning">
+                            <div class="row">
+                                <h6  style=" font-size: 30px;"  class="display-4">1. Mars Rover Vehicle</h6>
+
+                                <div class="col-md-4">
+                                    <label for="usr">X Coordinate:</label>
+                                    <input id="1PosX" type="text" class="form-control" placeholder="X">
+                                </div>
+
+                                <div class="col-md-4">
+                                    <label>Y Coordinate:</label>
+                                    <input id="1PosY" type="text" class="form-control" placeholder="Y">
+                                </div>
+
+                                <div class="col-md-4">
+                                    <label> Compass Direction</label>
+                                    <select id="1PosDirectionOption" class="form-control">
+                                        <option>North</option>
+                                        <option>East</option>
+                                        <option>South</option>
+                                        <option>West</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <br />
+
+                            <h5 style=" font-size: 28px; " class="display-4">Move Directive</h5>
+                            <div class="col-md-12">
+                                <input type="text" id="1MoveDirective" class="form-control" placeholder="(L:left R:right M:move)">
+                            </div>
+
+                        </div>
+                        <div class="col-md-6 border border-2 border-warning">
+
+                            <div class="row">
+                                <h5 style=" font-size: 30px;"  class="display-4">2. Mars Rover Vehicle</h5>
+
+                                <div class="col-md-4">
+                                    <label for="usr">X Coordinate:</label>
+                                    <input type="text" id="2PosX" class="form-control" placeholder="X">
+                                </div>
+
+                                <div class="col-md-4">
+                                    <label>Y Coordinate:</label>
+                                    <input type="text" id="2PosY" class="form-control" placeholder="Y">
+                                </div>
+
+                                <div class="col-md-4">
+                                    <label>Compass Direction</label>
+                                    <select class="form-control" id="2PosDirectionOption">
+                                        <option>North</option>
+                                        <option>East</option>
+                                        <option>South</option>
+                                        <option>West</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <br />
+
+                            <h5 style=" font-size: 28px; " class="display-4">Move Directive</h5>
+                            <div class="col-md-12">
+                                <input type="text" id="2MoveDirective" class="form-control" placeholder="(L:left R:right M:move)">
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+                    <!-- #endregion -->
+                    <!-- Move buttonnu-->
+                    <br />
+                    <div class="row">
+                        <div style=" text-align: center;" class=" col-12">
+                            <button type="submit" id='moveButton' class="btn btn-large btn-danger">  MOVE </button>
+                        </div>
+                    </div>
+
+
+</form>
+
+        </div>
+    </div>
+</div>

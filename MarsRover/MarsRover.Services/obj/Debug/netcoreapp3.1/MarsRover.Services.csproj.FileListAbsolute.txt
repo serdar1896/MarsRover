@@ -1,0 +1,10 @@
+C:\Users\Serdar\source\repos\MarsRover\MarsRover.Services\bin\Debug\netcoreapp3.1\MarsRover.Services.deps.json
+C:\Users\Serdar\source\repos\MarsRover\MarsRover.Services\bin\Debug\netcoreapp3.1\MarsRover.Services.dll
+C:\Users\Serdar\source\repos\MarsRover\MarsRover.Services\bin\Debug\netcoreapp3.1\MarsRover.Services.pdb
+C:\Users\Serdar\source\repos\MarsRover\MarsRover.Services\obj\Debug\netcoreapp3.1\MarsRover.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar\source\repos\MarsRover\MarsRover.Services\obj\Debug\netcoreapp3.1\MarsRover.Services.AssemblyInfoInputs.cache
+C:\Users\Serdar\source\repos\MarsRover\MarsRover.Services\obj\Debug\netcoreapp3.1\MarsRover.Services.AssemblyInfo.cs
+C:\Users\Serdar\source\repos\MarsRover\MarsRover.Services\obj\Debug\netcoreapp3.1\MarsRover.Services.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\source\repos\MarsRover\MarsRover.Services\obj\Debug\netcoreapp3.1\MarsRover.Services.dll
+C:\Users\Serdar\source\repos\MarsRover\MarsRover.Services\obj\Debug\netcoreapp3.1\MarsRover.Services.pdb
+C:\Users\Serdar\source\repos\MarsRover\MarsRover.Services\obj\Debug\netcoreapp3.1\MarsRover.Services.csproj.AssemblyReference.cache
