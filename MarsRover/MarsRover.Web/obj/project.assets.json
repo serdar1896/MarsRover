@@ -6175,11 +6175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serdar\\source\\repos\\MarsRover\\MarsRover.Web\\MarsRover.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Serdar\\Documents\\GitHub\\MarsRover\\MarsRover\\MarsRover.Web\\MarsRover.Web.csproj",
       "projectName": "MarsRover.Web",
-      "projectPath": "C:\\Users\\Serdar\\source\\repos\\MarsRover\\MarsRover.Web\\MarsRover.Web.csproj",
+      "projectPath": "C:\\Users\\Serdar\\Documents\\GitHub\\MarsRover\\MarsRover\\MarsRover.Web\\MarsRover.Web.csproj",
       "packagesPath": "C:\\Users\\Serdar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serdar\\source\\repos\\MarsRover\\MarsRover.Web\\obj\\",
+      "outputPath": "C:\\Users\\Serdar\\Documents\\GitHub\\MarsRover\\MarsRover\\MarsRover.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Serdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6196,8 +6196,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Serdar\\source\\repos\\MarsRover\\MarsRover.Services\\MarsRover.Services.csproj": {
-              "projectPath": "C:\\Users\\Serdar\\source\\repos\\MarsRover\\MarsRover.Services\\MarsRover.Services.csproj"
+            "C:\\Users\\Serdar\\Documents\\GitHub\\MarsRover\\MarsRover\\MarsRover.Services\\MarsRover.Services.csproj": {
+              "projectPath": "C:\\Users\\Serdar\\Documents\\GitHub\\MarsRover\\MarsRover\\MarsRover.Services\\MarsRover.Services.csproj"
             }
           }
         }

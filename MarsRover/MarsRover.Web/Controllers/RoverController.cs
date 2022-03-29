@@ -13,16 +13,13 @@ namespace MarsRover.Web.Controllers
         public RoverController(IRoverService roverService)
         {
             _roverService = roverService;
-        }
-
-      
+        }      
 
         public IActionResult Index()
         {
             return View();
 
         }
-
 
         public List<PositionModel> MoveDirectiveForRover(PlateauModel plateauModel,  List<PositionModel> positionModels, string[] directions)
         {       

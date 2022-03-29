@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serdar\\source\\repos\\MarsRover\\MarsRover.Services\\MarsRover.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Serdar\\Documents\\GitHub\\MarsRover\\MarsRover\\MarsRover.Services\\MarsRover.Services.csproj",
       "projectName": "MarsRover.Services",
-      "projectPath": "C:\\Users\\Serdar\\source\\repos\\MarsRover\\MarsRover.Services\\MarsRover.Services.csproj",
+      "projectPath": "C:\\Users\\Serdar\\Documents\\GitHub\\MarsRover\\MarsRover\\MarsRover.Services\\MarsRover.Services.csproj",
       "packagesPath": "C:\\Users\\Serdar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serdar\\source\\repos\\MarsRover\\MarsRover.Services\\obj\\",
+      "outputPath": "C:\\Users\\Serdar\\Documents\\GitHub\\MarsRover\\MarsRover\\MarsRover.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Serdar\\AppData\\Roaming\\NuGet\\NuGet.Config",

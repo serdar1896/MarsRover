@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wFcknFTXZzT7AO2ghroCJdS+bcTnw58qQD6atrqLJ0Zzc4gTinjluakNvampebi3XeSolRPIuGWggx+Y8CG54A==",
+  "dgSpecHash": "Xv9loWVa6RlpCU+XlyV/nbZICAQA9Ivm1ddi6NV0oOANjW7f7RbImBykDOchckENdNAYPOxqYQPfD8uZrQtrhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serdar\\source\\repos\\MarsRover\\MarsRover.UnitTests\\MarsRover.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Serdar\\Documents\\GitHub\\MarsRover\\MarsRover\\MarsRover.UnitTests\\MarsRover.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serdar\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Serdar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
