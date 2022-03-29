@@ -1,9 +1,9 @@
 # MarsRover
-    
-    Proje Amacı: Genişlik ve uzunluğu verilen bir plato üzerinde başlangıç koordinatları verilen iki aracın girilen yönlendirmelere göre varması gereken koordinatı hesaplayan bir MVC projesidir
 
+  Proje Amacı: Genişlik ve uzunluğu verilen bir plato üzerinde başlangıç koordinatları verilen iki aracın girilen yönlendirmelere göre varması gereken koordinatı hesaplayan bir MVC projesidir
+ 
 Kullanılan Teknolojiler: .Net Core 3.1 , MVC ,Unit Test , Katmanlı Mimari  , JavaScript , Jquery(ajax) , JSON
-
+ 
 Proje Detayı;  
 
 Kodun çalışması için beklenen modeller;
